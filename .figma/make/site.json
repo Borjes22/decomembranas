@@ -1,0 +1,11 @@
+{
+  "title": "Decomembranas",
+  "description": "Enhance user engagement with visually appealing hover animations for buttons and products, ensuring a seamless and accessible experience for all users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
